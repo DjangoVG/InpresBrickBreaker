@@ -1,2 +1,2 @@
 # InpresBrickBreaker
- Jeu de casse-briques créé en C utilisant les Threads POSIX
+ Jeu de casse-briques utilisant les Threads POSIX
